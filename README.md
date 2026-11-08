@@ -105,4 +105,4 @@ docker compose up -d
 | Роль | Ім'я | GitHub |
 |---|---|---|
 | Java-розробник (identity, project) | Spider (М.Д.І)| |
-| C#-розробник (gateway, board, activity) | | |
+| C#-розробник (gateway, board, activity) | El_Macho(Г.А.С)| |
